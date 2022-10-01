@@ -19,6 +19,7 @@ Test looked out for:
 
 **Usage**
 
+* `chmod +x st_gen.py st_wav_copy.py
 * `mkdir samples`
 * generate samples in samples directory: `./st_wav_copy.py` (11.8 GB needed for copies, possibly use links? Not sure if all sfz players support)
 * generate stress test sfz file: `./st_gen.py > stress_test.sfz`
