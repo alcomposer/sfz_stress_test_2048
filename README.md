@@ -1,6 +1,6 @@
 # sfz_stress_test_2048
 
-- [x] Single note, creates 2048 sfzRegion objects, playing 2048 sfzLayers
+- [x] Single note, creates 2048 sfz <region> objects, playing 2048 sfz layers
 - [x] Each region from its own sample, 48000, mono, one minute long (unlooped)
 - [x] SR = 48kHz, block size = 128, fixed
 - [ ] Pitch transpose up one semitone (avoid skipping interpolation, avoid cache artificial boost when downsampling)
