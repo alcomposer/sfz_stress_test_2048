@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 group_settings = """
+hint_ram_based=1
+
 <group>
 ampeg_attack=1
 ampeg_hold=0.5
