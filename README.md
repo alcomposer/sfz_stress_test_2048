@@ -6,6 +6,7 @@
 - [x] Each region enables a 4P LPF, 3 bands of peaking EQ. No _oncc for the filters nor eqs.
 - [x] 6-point AHDSR enabled for filter cutoff, amp
 - [x] Sine wave LFO enabled, assigned to pitch, 1 semitone depth, 4 hz for all layers
+- [x] RAM loading
 
 Using the test:
 * Host settings for test: SR = 48kHz, block size = 128, fixed
